@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-
-=======
-hi hamza akhtar 
->>>>>>> development
-this is development branch
->>>>>>> development
-=======
-hi
-hamza 
-this is development2 branch
-
-
->>>>>>> development2
+hi hamza these are new changes 
+that i have been doing to push this file
+on the git repo
