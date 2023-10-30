@@ -1,3 +1,7 @@
-hi
-hamza
-this file  is to check the git
+<<<<<<< HEAD
+
+this is 
+=======
+hi hamza 
+this is development branch
+>>>>>>> development
