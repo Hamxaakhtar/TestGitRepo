@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hi hamza these are new changes 
 that i have been doing to push this file
 on the git repo
+
+
+this file is uploaded from local machine to git repo
+some changes have been done
+>>>>>>> origin/master
