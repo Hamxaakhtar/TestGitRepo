@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 
 =======
 hi hamza akhtar 
 >>>>>>> development
 this is development branch
 >>>>>>> development
+=======
+hi
+hamza 
+this is development2 branch
+
+
+>>>>>>> development2
